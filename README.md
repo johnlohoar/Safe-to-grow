@@ -2,6 +2,7 @@
 
 React + Vite site. Deploys free on Vercel. Reads from Airtable.
 
+
 ---
 
 ## Stack
