@@ -34,6 +34,7 @@ npm run dev
 
 Without .env values, the app runs on sample data automatically — useful for design work.
 
+
 ---
 
 ## Getting Airtable Credentials
